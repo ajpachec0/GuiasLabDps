@@ -2,7 +2,7 @@
 #####  Alejandro José Castillo Pacheco  -- CP190719 // Ciclo 02 2022
 - Guia 01 - 90 % avance.
 - Guia 02 -  100 % avance.
-- Guia 03 -  % avance.
+- Guia 03 -  70% avance.
 - Guia 04 -  % avance.
 - Guia 05 -  % avance.
 - Guia 06 -  % avance.
