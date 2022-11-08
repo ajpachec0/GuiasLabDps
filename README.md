@@ -4,7 +4,7 @@
 - Guia 02 -  100 % avance.
 - Guia 03 -  100% avance.
 - Guia 04 -  100% avance.
-- Guia 05 -  % avance.
+- Guia 05 -  100% avance.
 - Guia 06 -  % avance.
 - Guia 07 -  % avance.
 - Guia 08 -  % avance.
